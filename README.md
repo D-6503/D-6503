@@ -90,6 +90,6 @@ AI Engineer • Generative AI Engineer • Machine Learning Engineer • Applied
 
 ## 📫 Connect With Me
 
-LinkedIn: Darshan M
+LinkedIn: linkedin.com/in/darshanm6503
 
-GitHub: D-6503
+GitHub: github.com/D-6503
