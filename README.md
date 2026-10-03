@@ -43,7 +43,7 @@ Foundations in ML, deep learning and computer vision. Published research on age-
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Learning now:** AI agents · MCP · LangGraph · LLMOps · Azure AI Foundry
+AI agents · MCP · LangGraph · LLMOps · Azure AI Foundry
 
 <div align="center">
 <br/>
