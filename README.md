@@ -10,7 +10,7 @@
 
 </div>
 
-I build AI systems that work outside the notebook: retrieval-grounded LLM apps, semantic search, automated AI evaluation and computer vision, from the model in Python to the FastAPI backend and Next.js product. Currently going deeper into AI agents and LLMOps, and preparing for Microsoft **AI-103** and **AI-300**.
+I build AI systems that work outside the notebook: retrieval-grounded LLM apps, semantic search, automated AI evaluation and computer vision, from the model in Python to the FastAPI backend and Next.js product. Currently going deeper into AI agents and LLMOps, and Microsoft **AI-103** and **AI-300** Certified.
 
 ### Education
 
