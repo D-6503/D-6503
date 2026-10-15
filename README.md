@@ -1,16 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:000000,55:8C0A18,100:FF2D3F&text=Darshan%20M&fontColor=F6ECEC&fontSize=60&fontAlignY=38&desc=AI%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Darshan M, AI Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:000000,55:8C0A18,100:FF2D3F&text=Darshan%20M&fontColor=F6ECEC&fontSize=60&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Microsoft%20Certified&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Darshan M, AI Engineer, Microsoft Certified" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=FF2D3F&center=true&vCenter=true&width=600&lines=Generative+AI+%7C+LLM+Applications+%7C+RAG;AI+Agents+%7C+Semantic+Search+%7C+Computer+Vision" alt="Generative AI | LLM Applications | RAG | AI Agents" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=FF2D3F&center=true&vCenter=true&width=640&lines=Generative+AI+%7C+LLM+Applications+%7C+RAG;AI+Agents+%7C+MLOps+%7C+Computer+Vision;Microsoft+Certified%3A+AI-103+%2B+AI-300" alt="Generative AI | LLM Applications | RAG | AI Agents | MLOps" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-darsh--m.vercel.app-FF2D3F?style=for-the-badge&logo=vercel&logoColor=white)](https://darsh-m.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshanm6503)
 [![Email](https://img.shields.io/badge/Email-Say%20hi-111111?style=for-the-badge&logo=gmail&logoColor=FF2D3F)](mailto:mdarshan6503@gmail.com)
 
+[![AI-103](https://img.shields.io/badge/Microsoft%20Certified-AI--103%20%C2%B7%20AI%20Apps%20%26%20Agents-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/darshanm-4119/credentials/certification/azure-ai-apps-and-agents-developer-associate?tab=credentials-tab)
+[![AI-300](https://img.shields.io/badge/Microsoft%20Certified-AI--300%20%C2%B7%20MLOps%20Engineer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/darshanm-4119/credentials/certification/operationalizing-machine-learning-and-generative-ai-solutions?tab=credentials-tab)
+
 </div>
 
-I build AI systems that work outside the notebook: retrieval-grounded LLM apps, semantic search, automated AI evaluation and computer vision, from the model in Python to the FastAPI backend and Next.js product. Currently going deeper into AI agents and LLMOps, and Microsoft **AI-103** and **AI-300** Certified.
+I build AI systems that work outside the notebook: retrieval-grounded LLM apps, AI agents, semantic search, automated AI evaluation and computer vision, from the model in Python to the FastAPI backend and Next.js product. **Microsoft Certified** in building AI apps and agents (AI-103) and running ML and GenAI in production (AI-300).
+
+### Certifications
+
+| | Certification | Issued | |
+|---|---|---|---|
+| **AI-103** | Microsoft Certified: Azure AI Apps and Agents Developer Associate | Oct 2026 | [Verify ↗](https://learn.microsoft.com/en-us/users/darshanm-4119/credentials/certification/azure-ai-apps-and-agents-developer-associate?tab=credentials-tab) |
+| **AI-300** | Microsoft Certified: Machine Learning Operations Engineer Associate | Oct 2026 | [Verify ↗](https://learn.microsoft.com/en-us/users/darshanm-4119/credentials/certification/operationalizing-machine-learning-and-generative-ai-solutions?tab=credentials-tab) |
 
 ### Education
 
@@ -41,9 +51,11 @@ Foundations in ML, deep learning and computer vision. Published research on age-
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-AI agents · MCP · LangGraph · LLMOps · Azure AI Foundry
+**Building now:** AI agents · MCP · LangGraph · LLMOps
 
 <div align="center">
 <br/>
